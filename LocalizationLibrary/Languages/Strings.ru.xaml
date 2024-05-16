@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:system="http://schemas.microsoft.com/winfx/2009/xaml">
+    <!-- Русские строки -->
+    <system:String x:Key="SerializeToXml">Сериализовать в XML</system:String>
+    <system:String x:Key="DeserializeFromXml">Десериализовать из XML</system:String>
+    <system:String x:Key="SerializeToJson">Сериализовать в JSON</system:String>
+    <system:String x:Key="DeserializeFromJson">Десериализовать из JSON</system:String>
+    <system:String x:Key="ChangeTheme">Смена темы</system:String>
+    <system:String x:Key="ChangeLanguage">Смена языка</system:String>
+</ResourceDictionary>

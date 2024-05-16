@@ -1,0 +1,13 @@
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\bin\Debug\net8.0-windows\LocalizationLibrary.deps.json
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\bin\Debug\net8.0-windows\LocalizationLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\bin\Debug\net8.0-windows\LocalizationLibrary.pdb
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.AssemblyInfoInputs.cache
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.AssemblyInfo.cs
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.sourcelink.json
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\refint\LocalizationLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.pdb
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\ref\LocalizationLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary_MarkupCompile.cache

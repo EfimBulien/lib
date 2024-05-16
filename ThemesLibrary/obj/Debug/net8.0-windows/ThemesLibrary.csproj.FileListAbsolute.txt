@@ -14,3 +14,4 @@ C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\
 C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.g.resources
 C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\Themes\CoralTheme.baml
 C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\Themes\LightBlueTheme.baml
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.sourcelink.json

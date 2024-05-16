@@ -26,3 +26,6 @@ C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\ref\demo.
 C:\Users\efimb\source\repos\libsSolution\demo\bin\Debug\net8.0-windows\ThemesLibrary.dll
 C:\Users\efimb\source\repos\libsSolution\demo\bin\Debug\net8.0-windows\ThemesLibrary.pdb
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\App.baml
+C:\Users\efimb\source\repos\libsSolution\demo\bin\Debug\net8.0-windows\LocalizationLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\demo\bin\Debug\net8.0-windows\LocalizationLibrary.pdb
+C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\demo.sourcelink.json

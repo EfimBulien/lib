@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\LocalizationLibrary\LocalizationLibrary.csproj" />
     <ProjectReference Include="..\SerializationLibrary\SerializationLibrary.csproj" />
     <ProjectReference Include="..\ThemesLibrary\ThemesLibrary.csproj" />
   </ItemGroup>
