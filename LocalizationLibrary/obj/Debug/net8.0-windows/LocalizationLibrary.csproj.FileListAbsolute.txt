@@ -11,3 +11,6 @@ C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-wi
 C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.pdb
 C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\ref\LocalizationLibrary.dll
 C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary_MarkupCompile.cache
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\Languages\Strings.en.baml
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\Languages\Strings.ru.baml
+C:\Users\efimb\source\repos\libsSolution\LocalizationLibrary\obj\Debug\net8.0-windows\LocalizationLibrary.g.resources
