@@ -1,0 +1,16 @@
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\bin\Debug\net8.0-windows\ThemesLibrary.deps.json
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\bin\Debug\net8.0-windows\ThemesLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\bin\Debug\net8.0-windows\ThemesLibrary.pdb
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.AssemblyInfoInputs.cache
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.AssemblyInfo.cs
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\refint\ThemesLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.pdb
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ref\ThemesLibrary.dll
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesDictionary.baml
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary_MarkupCompile.cache
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\ThemesLibrary.g.resources
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\Themes\CoralTheme.baml
+C:\Users\efimb\source\repos\libsSolution\ThemesLibrary\obj\Debug\net8.0-windows\Themes\LightBlueTheme.baml

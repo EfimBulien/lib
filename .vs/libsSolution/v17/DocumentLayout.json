@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efimb\\source\\repos\\libsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\demo\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|solutionrelative:demo\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|solutionrelative:demo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8AAD7C-50C2-4C6C-98A6-8858F42FFFFB}|ThemesLibrary\\ThemesLibrary.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\themeslibrary\\themes\\coraltheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F8AAD7C-50C2-4C6C-98A6-8858F42FFFFB}|ThemesLibrary\\ThemesLibrary.csproj|solutionrelative:themeslibrary\\themes\\coraltheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|solutionrelative:demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA818FFC-4C2E-4B3E-BAC6-2E28F8F74342}|demo\\demo.csproj|solutionrelative:demo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8AAD7C-50C2-4C6C-98A6-8858F42FFFFB}|ThemesLibrary\\ThemesLibrary.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\themeslibrary\\themes\\lightbluetheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F8AAD7C-50C2-4C6C-98A6-8858F42FFFFB}|ThemesLibrary\\ThemesLibrary.csproj|solutionrelative:themeslibrary\\themes\\lightbluetheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E785E82-AE43-41A3-A646-85173A2CE027}|SerializationLibrary\\SerializationLibrary.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\serializationlibrary\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E785E82-AE43-41A3-A646-85173A2CE027}|SerializationLibrary\\SerializationLibrary.csproj|solutionrelative:serializationlibrary\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8AAD7C-50C2-4C6C-98A6-8858F42FFFFB}|ThemesLibrary\\ThemesLibrary.csproj|c:\\users\\efimb\\source\\repos\\libssolution\\themeslibrary\\themesdictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F8AAD7C-50C2-4C6C-98A6-8858F42FFFFB}|ThemesLibrary\\ThemesLibrary.csproj|solutionrelative:themeslibrary\\themesdictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\Smartphone.cs",
+              "RelativeDocumentMoniker": "demo\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\Smartphone.cs",
+              "RelativeToolTip": "demo\\Smartphone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:45:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SerializationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\SerializationLibrary\\SerializationHelper.cs",
+              "RelativeDocumentMoniker": "SerializationLibrary\\SerializationHelper.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\SerializationLibrary\\SerializationHelper.cs",
+              "RelativeToolTip": "SerializationLibrary\\SerializationHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:30:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThemesDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\ThemesLibrary\\ThemesDictionary.xaml",
+              "RelativeDocumentMoniker": "ThemesLibrary\\ThemesDictionary.xaml",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\ThemesLibrary\\ThemesDictionary.xaml",
+              "RelativeToolTip": "ThemesLibrary\\ThemesDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T18:17:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LightBlueTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\ThemesLibrary\\Themes\\LightBlueTheme.xaml",
+              "RelativeDocumentMoniker": "ThemesLibrary\\Themes\\LightBlueTheme.xaml",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\ThemesLibrary\\Themes\\LightBlueTheme.xaml",
+              "RelativeToolTip": "ThemesLibrary\\Themes\\LightBlueTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T18:16:55.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoralTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\ThemesLibrary\\Themes\\CoralTheme.xaml",
+              "RelativeDocumentMoniker": "ThemesLibrary\\Themes\\CoralTheme.xaml",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\ThemesLibrary\\Themes\\CoralTheme.xaml",
+              "RelativeToolTip": "ThemesLibrary\\Themes\\CoralTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T18:16:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "demo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\MainWindow.xaml",
+              "RelativeToolTip": "demo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T18:12:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "demo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA1wDcAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:07:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\App.xaml",
+              "RelativeDocumentMoniker": "demo\\App.xaml",
+              "ToolTip": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\App.xaml",
+              "RelativeToolTip": "demo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T18:03:38.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

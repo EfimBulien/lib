@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/i2LTITC+y/K2Pi0dfI3kn8wTwL34boOFUoRpgeZu/SrNLzZGbnP/TzX8t1kAA9vevQgjCg9/zhYMc6IWsWJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efimb\\source\\repos\\libsSolution\\SerializationLibrary\\SerializationLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efimb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

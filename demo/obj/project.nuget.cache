@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEBLFfvT7ntnA+/SFVvB7vegjgauxUR65ZgJ71m5a5r+2xnqrIr7UnkwAnLlm6yoj4mFSJ0pr6FHtbm4M5upAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efimb\\source\\repos\\libsSolution\\demo\\demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efimb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
