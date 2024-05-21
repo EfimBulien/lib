@@ -10,7 +10,6 @@ C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\demo.cspr
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\demo_MarkupCompile.cache
-C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\demo_MarkupCompile.lref
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\demo.g.resources
 C:\Users\efimb\source\repos\libsSolution\demo\obj\Debug\net8.0-windows\demo.GeneratedMSBuildEditorConfig.editorconfig

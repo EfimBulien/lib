@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerializationLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37b21b41e1a7e92af5a586de94d725b04e6a9c8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fae343297c58fa654476f4d3d3f5098d1f07b9c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerializationLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerializationLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
